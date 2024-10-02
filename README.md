@@ -7,5 +7,5 @@ From my opinion and to put it simply, Data Science is a study that involves in M
 - [IBM](https://www.ibm.com/topics/data-science).
 
 # What are Artifical Intelligence and Machine Learning?
-- Artifical Intelligence: Artificial Intelligence (or also known and abbreviated as AI) is a way for computer to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy. In essence Artifical Intelligence is a technology to mimick human's intelligence.
+- Artificial Intelligence: Artificial Intelligence (or also known and abbreviated as AI) is a way for computer to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy. In essence Artifical Intelligence is a technology to mimick human's intelligence.
 - Machine learning: According to Arthur Samuel, Machine learning is a study that gives computers the ability to learn without being explicitly programmed.
