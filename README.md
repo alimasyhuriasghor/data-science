@@ -1,11 +1,5 @@
-# Howdy! Welcome to My Python Data Science tutorial
-This [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) contains all of my Python data science learning journey across all trusted sources. Each of the Python data science tutorial will have their own [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) and reference.
+Welcome To My Python Data Science Handbook Feature Branch!
+This feature branch contains my Python Data Science Handbook tutorial learning journey. Some of the [notebook](https://docs.jupyter.org/en/latest/) files are just a concise summary of the Python Data Science Handbook.
 
-#  What is Data Science and what is it used for?
-In my opinion, data science is a study that involves in Mathematics, Programming, and Machine Learning (ML) to find hidden meaningful information from a dataset (e.g, CSV file, Excel file, etc.).
-
-Data science is really useful among statisticians who always analyze dataset by using a mathematical knowledge. By leveraging a knowledge of Programming and Machine Learning, statisticians can uncover trends, suggestions, and many more that are useful to both society and companies.
-
-For more comprehensive information about what data science is, you can go to either of these links below:
-- [IBM](https://www.ibm.com/topics/data-science).
-- [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
+# Reference
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) is a book written by Jake VanderPlas that covers the basic of using IPython, NumPy, Pandas, Matplotlib, and Scikit-Learn [packages](https://docs.python.org/3/glossary.html#term-package).
